@@ -7,7 +7,6 @@
 * 12월을 대상으로 고객들에게 프로모션을 통해 성공적인 마케팅을 하기 위해 모델 제작
 * 2011년 12월의 고객 구매액 300초과 여부를 예측
 * log 데이터 범위 : 2009년 12월 ~ 2011년 11월
-* ![img](https://s3-ap-northeast-2.amazonaws.com/aistages-public-junyeop/app/Users/00000025/files/56bd7d05-4eb8-4e3e-884d-18bd74dc4864..png)
 
 
 
