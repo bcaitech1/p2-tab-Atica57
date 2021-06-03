@@ -24,13 +24,13 @@
 
 ### 코드 목록
 
-> * [features_1.py](#features_1.py)
+> * [features_1.py](# features_1.py)
 >   * data에 대한 분류 label 설정 함수, 데이터 전처리 진행 함수, feature engineering 진행 함수 정의
-> * [model.py](#model.py)
+> * [model.py](# model.py)
 >   * optuna를 위한 objective 정의, 모델에 따른 학습 진행하는 함수 정의
-> * [util_1.py](#util_1.py)
+> * [util_1.py](# util_1.py)
 >   * 시드(seed) 고정 함수, 예측 결과에 관한 평가 지표 출력 함수 정의
-> * [inference_1.py](#inference_1.py)
+> * [inference_1.py](# inference_1.py)
 >   * 모델 이름을 인자로 받아 각 모델에 맞는 학습을 진행, 예측 결과 저장
 
 
